@@ -1,0 +1,8 @@
+env
+.idea
+*.pyc
+media/
+tmp
+*.sqlite3
+.vscode/
+static/
