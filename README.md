@@ -6,9 +6,18 @@ install virtualenv
 
 <pre>
 <code id="codigo-ejemplo">
-pip install virtualenv env
+pip install virtualenv
 </code>
 </pre>
+
+Crear entorno virtual
+
+<pre>
+<code id="codigo-entorno">
+virtualenv env
+</code>
+</pre>
+
 Luego activar el entorno virtual
 
 ## Instalar requerimientos de python
